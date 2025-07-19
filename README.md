@@ -7,3 +7,6 @@ Um sistema simples em PHP para adicionar, exibir e limpar tarefas. Os dados são
 - Adição de tarefas com título e descrição
 - Exibição em tabela
 - Botão para limpar lista de tarefas
+
+## Exemplo de uso 
+ ![Imagem ]https://imgur.com/a/UkwZjVV)
