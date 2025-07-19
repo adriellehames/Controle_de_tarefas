@@ -1,0 +1,33 @@
+ .title_main{
+flex-flow: column;
+text-align:left;
+color: rgb(0, 0, 0);
+
+ }
+
+
+ .text_form{
+flex-direction: column;
+text-align: left;
+margin: -1px; 
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: rgb(7, 93, 76);
+font-weight:bolder;
+
+ }
+
+ .button{
+color: aquamarine;
+background-color: black;
+text-shadow: 10px;
+border-radius: 20px;
+padding: 10px;
+
+.table{
+    flex-flow: row;
+    align-items: center;
+    text-align: left;
+    border: 1px;
+}
+
+ }
